@@ -1,0 +1,15 @@
+{
+  "name": "tree-shake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JSEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^7.1.0"
+  }
+}
